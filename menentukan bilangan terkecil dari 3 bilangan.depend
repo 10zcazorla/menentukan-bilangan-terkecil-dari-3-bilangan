@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542978106 source:c:\tugas\algoritma\looping\menentukan bilangan terkecil dari 3 bilangan\main.cpp
+	<stdio.h>
+	<conio.h>
+
